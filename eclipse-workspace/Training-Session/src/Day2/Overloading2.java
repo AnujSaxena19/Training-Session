@@ -6,7 +6,7 @@ public class Overloading2 {
 		System.out.println("Object type");
 	}
 	public void m1(String s) {
-		System.out.println("String argument");
+		System.out.println("String arguments");
 	}
 	public static void main(String args[]) {
 		Overloading2 o=new Overloading2();
